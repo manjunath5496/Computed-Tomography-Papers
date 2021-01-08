@@ -80,7 +80,7 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(44).pdf" style="text-decoration:none;">Shape-Aware Complementary-Task Learning for Multi-Organ Segmentation</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(45).pdf" style="text-decoration:none;">We Know Where We Don't Know: 3D Bayesian CNNs for Credible Geometric Uncertainty</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(46).pdf" style="text-decoration:none;">TorchRadon: Fast Dierentiable Routines for Computed Tomography</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(46).pdf" style="text-decoration:none;">TorchRadon: Fast Differentiable Routines for Computed Tomography</a></li> 
                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(47).pdf" style="text-decoration:none;">Evaluate the Malignancy of Pulmonary Nodules Using the 3D Deep Leaky Noisy-or Network</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(48).pdf" style="text-decoration:none;">Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model</a></li>
@@ -137,26 +137,26 @@ Region-based Convolutional Neural Network for End-to-End Lesion Detection </a></
  <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(73).pdf" style="text-decoration:none;">Multimodal fusion of imaging and genomics for lung cancer recurrence prediction</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(74).pdf" style="text-decoration:none;">Lung Nodule Classification using Deep Local-Global Networks</a></li>
     <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(75).pdf" style="text-decoration:none;">Computer aided detection of oral lesions on CT images</a></li>                        
-<li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(76).pdf" style="text-decoration:none;">A Semantic Approach to IE Pattern Induction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(76).pdf" style="text-decoration:none;">COVID-19-CT-CXR: a freely accessible and weakly labeled chest X-ray and CT image collection on COVID-19 from biomedical literature</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(77).pdf" style="text-decoration:none;">REES: A Large-Scale Relation and Event Extraction System</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(77).pdf" style="text-decoration:none;">The KiTS19 Challenge Data:
+300 Kidney Tumor Cases with Clinical Context, CT Semantic Segmentations, and Surgical Outcomes</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(78).pdf" style="text-decoration:none;">A Maximum Entropy Approach to
-Information Extraction from Semi-Structured and Free Text</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(79).pdf" style="text-decoration:none;">Automatically constructing a dictionary for information extraction tasks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(78).pdf" style="text-decoration:none;">Review of Artificial Intelligence Techniques in Imaging Data Acquisition, Segmentation and Diagnosis for COVID-19</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(79).pdf" style="text-decoration:none;">COVID-CT-MD: COVID-19 Computed Tomography (CT) Scan Dataset Applicable in Machine Learning and Deep Learning</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(80).pdf" style="text-decoration:none;">A Review of Relation Extraction</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(80).pdf" style="text-decoration:none;">Automated Segmentation of CT Scans for Normal Pressure Hydrocephalus</a></li> 
  
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(81).pdf" style="text-decoration:none;">A Survey of Techniques for Event Detection in Twitter</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(82).pdf" style="text-decoration:none;">Complex event extraction at PubMed scale</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(81).pdf" style="text-decoration:none;">Intra-model Variability in COVID-19 Classification Using Chest X-ray Images</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(82).pdf" style="text-decoration:none;">Diagnostic Classification Of Lung Nodules Using 3D Neural Networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(83).pdf" style="text-decoration:none;">Boosting automatic event extraction from the literature using domain adaptation and coreference resolution</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(84).pdf" style="text-decoration:none;">Automatic Acquisition of Domain Knowledge for Information Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(83).pdf" style="text-decoration:none;">Anatomy-specific classification of medical images using deep convolutional nets</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(84).pdf" style="text-decoration:none;">False Positive Reduction in Lung Computed Tomography Images using Convolutional Neural Networks</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(85).pdf" style="text-decoration:none;">Filtered Ranking for Bootstrapping in Event Extraction</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Computed-Tomography-Papers/blob/master/ct(85).pdf" style="text-decoration:none;">DeepSEED: 3D Squeeze-and-Excitation Encoder-Decoder Convolutional Neural Networks for Pulmonary Nodule Detection</a></li>
   </ul>
   
   
